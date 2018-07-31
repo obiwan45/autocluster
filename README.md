@@ -1,1 +1,1 @@
-{  "fname":"test.exe" , "version":"2.1"   , "date":"07/31/2018" }
+{  "fname":"test.exe" , "version":"2.0"   , "date":"07/31/2018" }
